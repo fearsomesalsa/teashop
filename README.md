@@ -1,2 +1,2 @@
 # Teashop
-HTML, Bootstrap styles (slider, accordion)
+HTML, Bootstrap styles, jQuery (slider, JqueryUI accordion)
