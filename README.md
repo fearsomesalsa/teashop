@@ -1,2 +1,2 @@
 # Teashop
-HTML, Bootstrap, jQuery, jQueryUI, Slick.js, wow.js
+HTML, Bootstrap, jQuery, jQueryUI, Slick, wow.js
