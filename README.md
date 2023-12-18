@@ -1,2 +1,2 @@
 # Teashop
-HTML, Bootstrap styles, jQuery, jQueryUI accordion, Slick slider
+HTML, Bootstrap, jQuery, jQueryUI, Slick.js, wow.js
